@@ -2,9 +2,12 @@
 title: Hello
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
-tags: hello
 ---
 Who cares.
+
+I don't like this theme.
+
+**It does have a tag feature.**
 
 This is my first post on my new fake blog! How exciting!
 
