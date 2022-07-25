@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Thinking Opposites`,
     author: {
       name: `Kate Nicole`,
-      summary: `Writes about writing, copywriting, and study skills.`,
+      summary: `Essays about obvious things but with unique perspective.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://thewritingsmith.gatsbyjs.io`,
+    siteUrl: `https://thinkingopposites.gatsbyjs.io`,
     social: {
       twitter: `HelloNicole01`,
     },
