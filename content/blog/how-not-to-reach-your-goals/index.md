@@ -20,13 +20,10 @@ Procrastination has many negative effects.
 
 It includes:
 
-  - keeping you from reaching your goals
-
-  - losing valuable time
-
-  - delays
-
-  - can damage mental health and so forth...
+- keeping you from reaching your goals
+- losing valuable time
+- delays
+- can damage mental health and so forth...
 
 So I recommend keeping yourself always distracted and procrastinating more to avoid reaching your goal.
 
