@@ -13,20 +13,20 @@ When setting an unreachable goal, don't be specific.
 
 Being specific makes your goal clear and defined.
 
-It's not our goal here!
+It's not our *goal* here!
 
 # 2. Procrastinate
 Procrastination has many negative effects.
 
 It includes:
 
-- keeping you from reaching your goals
+  - keeping you from reaching your goals
 
-- losing valuable time
+  - losing valuable time
 
-- delays
+  - delays
 
-- can damage mental health and so forth...
+  - can damage mental health and so forth...
 
 So I recommend keeping yourself always distracted and procrastinating more to avoid reaching your goal.
 
