@@ -19,7 +19,6 @@ It's not our *goal* here!
 Procrastination has many negative effects.
 
 It includes:
-
 - keeping you from reaching your goals
 - losing valuable time
 - delays
