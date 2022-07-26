@@ -1,6 +1,6 @@
 ---
 title: 6 Ways on How NOT to Reach Your Goals
-date: 2022-26-07
+date: 2022-07-26
 description: Contents that help you reach your goal are overrated.
 ---
 
